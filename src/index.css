@@ -9,3 +9,15 @@ body {
 * {
   font-family: "Montserrat", serif;
 }
+
+:root {
+  --primary: #005f5a;
+  --secondary: #14b8a6;
+  --tertiary: #a7f3d0;
+  --error: #ef4444;
+  --warning: #f59e0b;
+  --success: #16a34a;
+  --white: #ffffff;
+  --black: #000000;
+  --grey: #e7e5e4;
+}
